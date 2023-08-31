@@ -30,7 +30,6 @@
 * The vast majority of employees reside in Ohio, whereas few commute from Wisconsin and Kentucky.
 * The net percentage change in employees has increased slightly over time.
 
-
-  ### Limitations
+### Limitations
 
   * Some termination dates were dated in the future so they were not used. Only termination dates which were less than or equal to the current date were used.
