@@ -26,4 +26,9 @@
 * The gender distribution across departments is almost balanced though slightly more dominated by males due to the company having a greater number of male employees.
 * Business Analyst, HR Analyst, Account Executive and Research Assistant have the highest employee count.
 * The vast majority of employees reside in Ohio, whereas few commute from Wisconsin and Kentucky.
-* 
+* The net percentage change in employees has increased slightly over time.
+
+
+  ### Limitations
+
+  * Some termination dates were dated in the future so they were not used. Only termination dates which were less than or equal to the current date were used.
