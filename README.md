@@ -1,5 +1,8 @@
 # HR-analytics-dashboard
 
+![image](https://github.com/nasrin-h/HR-analytics-dashboard/assets/136613366/c2830049-2d86-4a03-bba8-d5d8fae74116)
+
+
 ### Data Information
 
 * Data: HR Data dated between 2000 - 2020
