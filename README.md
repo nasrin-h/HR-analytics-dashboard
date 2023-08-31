@@ -25,7 +25,7 @@
 * The majority of employees are of White race, whilst few employees are of Native Hawaiian and American Indian race.
 * There is approximately 5000 employees who fall under the 25-34, 35-44 and 45-54 age groups respectively, whilst almost 2000 fall under the 18-24 group and about 1400 under the 55-64 group.
 * The number of employees working on-site vastly dominates those working remotely.
-* The gender distribution across departments is almost balanced though slightly more dominated by males due to the company having a greater number of male employees.
+* The gender distribution across departments is almost balanced though slightly more dominated by males due to the company having a greater number of male employees. However, the Audit department  consists only of female employees.
 * Business Analyst, HR Analyst, Account Executive and Research Assistant have the highest employee count.
 * The vast majority of employees reside in Ohio, whereas few commute from Wisconsin and Kentucky.
 * The net percentage change in employees has increased slightly over time.
