@@ -1,6 +1,7 @@
 # HR-analytics-dashboard
 
-![image](https://github.com/nasrin-h/HR-analytics-dashboard/assets/136613366/e0e24591-614e-42f9-a063-6bbd66d55da4)
+![image](https://github.com/nasrin-h/HR-analytics-dashboard/assets/136613366/3b1b3020-8247-4fee-8ff4-15ac45f469f7)
+
 
 ### Data Information
 
