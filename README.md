@@ -1,7 +1,7 @@
 # HR-analytics-dashboard
 
 ![image](https://github.com/nasrin-h/HR-analytics-dashboard/assets/136613366/f6170cb0-9e60-4897-8f33-6e0e0b853765)
-
+https://public.tableau.com/views/HRAnalysis_16934934090380/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### Data Information
 
